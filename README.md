@@ -1,4 +1,4 @@
 # Connect 4
-Connect 4 using workflows!
+Connect four using workflows! How amazing!
 <br/><br/>
 It is the **blue** team's turn to play.
